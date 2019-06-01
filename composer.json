@@ -1,0 +1,12 @@
+{
+    "name": "ace_corps/bail_mailer",
+    "description": "mailer",
+    "license": "MIT",
+    "authors": [{
+        "name": "BadAss121",
+        "email": "badass121@xabber.org"
+    }],
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
