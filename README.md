@@ -1,2 +1,2 @@
 # BailMailer
-And Advance Php mailer for sending bulk messages 
+An Advance Php mailer for sending bulk messages
