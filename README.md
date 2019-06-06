@@ -47,3 +47,9 @@ Step 3: run "cmd.exe" on this folder
 set 4: start sending with "php main.php cli"
 
 
+
+--------- ON CENTOS---------
+
+Step 1: Run "sh ./install.sh"
+
+
