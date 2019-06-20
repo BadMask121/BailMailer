@@ -48,7 +48,7 @@ set 4: start sending with "php main.php cli"
 
 
 
---------- ON CENTOS---------
+--------- ON LINUX---------
 
 Step 1: Run "sh ./install.sh"
 
