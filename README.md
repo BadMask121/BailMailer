@@ -1,3 +1,5 @@
+#NOTE: this project is poorly documented I'll try to update the documentation
+
 # BailMailer
 An Advance Php mailer for sending bulk messages#
 
